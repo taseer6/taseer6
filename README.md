@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm taseer 👋
 
-<!--
-**taseer6/taseer6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Full-Stack Engineer** · React · Next.js · TypeScript · Node.js · RubyOnRails
 
-Here are some ideas to get you started:
+I build fast, scalable web applications end-to-end. I'm passionate about clean architecture, performance, and shipping products that real users love.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 London &nbsp;|&nbsp; 📫 [taseer6@hotmail.com](mailto:taseer6@hotmail.com) &nbsp;
+
+---
+
+## 🚀 What I Work With
+
+**Frontend**
+- ⚛️ React
+- ▲ Next.js
+- 🔷 TypeScript
+- 🎨 Tailwind CSS, shadcn/ui
+
+**Backend & APIs**
+- 🟢 Node.js + Express / Next.js API Routes
+- 🔷 RubyOnRails
+- 🗄️ PostgreSQL · Prisma ORM · Redis
+- 🔗 REST · GraphQL
+- 
+
+**State Management**
+- Zustand · React Query (TanStack) · Appolo Client
+
+**Testing**
+- ✅ Vitest · React Testing Library · Playwright
+
+**Cloud & DevOps**
+- ☁️ AWS · Vercel
+- 🐳 Docker · GitHub Actions · CI/CD pipelines
+ 
